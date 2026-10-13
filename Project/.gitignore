@@ -1,0 +1,13 @@
+Corn_Project_Data/
+.venv/
+frames/
+to_label/
+label_viz/
+labels_export/
+
+# Keep off the public repo: course materials, report, labels, video frames
+COSC4346_SemesterProject_Fall2026.pdf
+Stage1-1.pdf
+Stage1_Guide.txt
+submission/
+docs/labeling_example.jpg
